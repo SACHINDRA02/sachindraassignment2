@@ -4,7 +4,7 @@ public class q18 {
 	public static void main(String args[]) {
 		Scanner in=new Scanner(System.in);
 		int a,n;
-		a=(int) (Math.random()*1000);
+		a=(int) (Math.random()*10000);
 		System.out.println(a);
 		System.out.println("Eneter a number");
 		n=in.nextInt();
